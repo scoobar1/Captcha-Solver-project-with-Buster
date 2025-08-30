@@ -116,7 +116,7 @@ captcha-solver/
 ## 👤 Author
 - **Name:** Mahmoud Essam  
 - **Alias:** mrdev  
-- **GitHub:** [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)  
+- **GitHub:** (https://github.com/scoobar1)  
 
 ---
 
